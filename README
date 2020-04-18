@@ -1,0 +1,9 @@
+Chris
+
+1. Here is the ERA data, Nicks file of respondant lat-lon coordinates and the R-code snippet that extracts the data at teh lat-lon point.
+
+2. All land grid points have values; all ocean grids are assigned NA. There are no NAs over the land, I have achecked this.
+
+
+One last thing: I found the code that extracts the lat-lon online. I does so by computing the x-y coordinate of the lat-lon. This is the only code find and I have not been able to verify if the x-y coodrinate computed is the actual lat-lon. I have no reason to believe it is not correct, but if you have some way of confirming this it would remove an uncertainty in my mind.
+
